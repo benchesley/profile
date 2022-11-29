@@ -20,9 +20,9 @@ const config = {
     medium: 'arifszn',
     dev: 'arifszn',
     stackoverflow: '', // format: userid/username
-    website: 'https://arifszn.github.io',
+    website: 'https://www.benchesley.com',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'benchesley@gmail.com',
   },
   resume: {
     fileUrl: 'resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
